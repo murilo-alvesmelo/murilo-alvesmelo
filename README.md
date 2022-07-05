@@ -1,4 +1,4 @@
-## Olá, me chamo Murilo Alves Melo
+## Hey, me chamo Murilo Alves Melo
 
 <div align="center">
   <a href="https://github.com/murilo-alvesmelo">
