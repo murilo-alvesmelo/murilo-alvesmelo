@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,postgres,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,postgres,github,vscode)](https://skillicons.dev)
   
   ##
  ## Contacts:
