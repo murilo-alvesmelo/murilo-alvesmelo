@@ -1,4 +1,4 @@
-- 👋 Sup! Sou o Murilo Alves.
-- 👨🏽‍💻 Atualmente estou trabalhando como Desenvolvedor Mobile na [Niceplanet](https://niceplanet.com.br/).
-- ⚛️  Ultimamente estou trabalhando com [React](https://react.dev/), [React Native](https://reactnative.dev/).
-- 🌱 Também praticando e estudando [TypeScript](https://www.typescriptlang.org/) e [Swift](https://www.swift.org/)
+- 👋 Sup! I'm Murilo.
+- 👨🏽‍💻 I'm currently working as a Mobile Developer at [Niceplanet](https://niceplanet.com.br/).
+- ⚛️  Lately I've been working with [React](https://react.dev/), [React Native](https://reactnative.dev/).
+- 🌱 Also learning and practicing [TypeScript](https://www.typescriptlang.org/), [Swift](https://www.swift.org/)
